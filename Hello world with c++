@@ -1,0 +1,9 @@
+#include<isotream>
+#include<cstdio>
+using namespace sid;
+
+int main()
+{
+printf("Hello World!"):
+return0;
+}
